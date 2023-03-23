@@ -1,0 +1,26 @@
+.psticky{
+    position: fixed!important;
+     z-index: 1;
+
+}
+
+ul {
+    list-style-type: none;
+  }
+
+  .li-bg-color{
+    /* background-color:"#c7c71e"; */
+    background-color:#bfcddb;
+  }
+
+
+  
+
+  .saperator-color{
+    background-color:#dee2e6;
+  }
+
+ 
+  .logoNav{
+    margin-top: 100%;
+  }

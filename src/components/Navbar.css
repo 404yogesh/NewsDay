@@ -1,0 +1,13 @@
+.psticky{
+    position: sticky!important;
+}
+
+.fontStyle{
+    font-size: 32px;
+    font-weight: bolder;
+    font-family: cursive;
+  }
+
+  .logoBorder{
+    border: 1px solid black;
+  }

@@ -1,0 +1,18 @@
+a{
+    color: rgb(50, 82, 93);
+text-decoration: none;
+}
+a:hover{
+    color: rgb(0, 0, 255);
+    cursor: pointer;
+}
+
+.secNav-top{
+    top: 8%;
+ 
+  }
+
+  .myBorder{
+    border-bottom: 2px solid rgb(255, 255, 255);
+    border-top: 2px solid rgb(255, 255, 255);
+  }

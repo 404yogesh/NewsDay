@@ -1,0 +1,20 @@
+.Hover:hover{
+    background-color: rgb(62, 65, 64);
+    cursor: pointer;
+}
+
+a:hover{
+    color: rgb(123, 193, 255);
+   
+}
+
+button:hover{
+    background-color: rgb(61, 63, 62)!important;
+      /* color: black; */
+    /* cursor: pointer; */
+
+}
+.Link{
+    color: rgb(0, 191, 255);
+text-decoration: none;
+}
